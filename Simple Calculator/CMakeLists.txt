@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.30)
+project(STRUCTURAL_PROGRAMMING_ASSIGNMENTS C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(STRUCTURAL_PROGRAMMING_ASSIGNMENTS main.c)
